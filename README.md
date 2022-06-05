@@ -25,7 +25,7 @@ Users should be able to:
 ### Screenshot
 
 #### Desktop
-![Desktop](./design/desktop-preview.jpg)
+![Desktop](./design/screenshot-desktop.png)
 
 #### Mobile
 
