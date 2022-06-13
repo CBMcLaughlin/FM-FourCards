@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/CBMcLaughlin/FM-FourCards)
+- Solution URL: [Frontend Mentor Solution Submission](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub/singlepage-design-using-flexbox-X8l-QuvEiA)
 - Live Site URL: [GitHub Live Site](https://cbmclaughlin.github.io/FM-FourCards/)
 
 ## My process
